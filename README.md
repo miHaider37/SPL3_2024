@@ -22,7 +22,7 @@
 	cd *directory*
 ```
 #### Beispiel zu **cd**
-<img src"img/cd_example.png">
+<img src="img/cd_example.png">
 
 - Zeigt an, in welchem Verzeichnis man sich befindet.
 ```bash
