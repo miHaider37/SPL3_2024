@@ -15,39 +15,39 @@
 	LS -l
 ```
 #### Beispiel zu **Ls -l**
-![Example of LS-l command](/img/ls-l_example.png)
+<img src="img/ls-l_example.png">
 
 - Verzeichnis wechseln.
 ```bash
 	cd *directory*
 ```
 #### Beispiel zu **cd**
-![Example of cd command](/img/cd_example.png)
+<img src"img/cd_example.png">
 
 - Zeigt an, in welchem Verzeichnis man sich befindet.
 ```bash
 	pwd
 ```
 #### Beispiel für **pwd**
-![Example of pwd command](/img/pwd_example.png)
+<img src="img/wd_example.png">
 
 - Ordner **erstellen**
 ```bash
         mkdir *directory*
 ```
 #### Beispiel für **mkdir**
-![Example of mkdir command](/img/mkdir_exmaple.png)
+<img src="img/mkdir_exmaple.png">
 
 - Zeigt die **aktuelle Git Version** an, welche man benutzt
 ```bash
         git -version
 ```
 #### Beispiel für **git -version**
-![Example of git -version command](/img/git-version_example.png)
+<img src="img/git-version_example.png">
 
 - **Bearbeiten** von Dateien
 ```bash
 	nano *file name*
 ```
 #### Beispiel für **nano**
-![Example of nano command](/img/nano_example.png)
+<img src="img/nano_example.png">
